@@ -1,11 +1,12 @@
-# Hey 👋🏻 I'm [Frankie](https://valentinedev.com)!
+# Hey 👋🏻 I'm 
 
 <img src="https://user-images.githubusercontent.com/26727138/88444189-bf9f4800-cdd0-11ea-961b-413ac5746073.png" alt="banner that says Frankie Valentine - founder, developer & designer alongside a picture of Frankie">
 
 
-<!--
+
 #### Contact
--->
+[--> here](https://valentinedev.com)!
+
 <!--
 - Email : frankie[/at]v3digital[dot]studio
 -->
