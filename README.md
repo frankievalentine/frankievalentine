@@ -2,7 +2,7 @@
 
 Hey, I'm Frankie.
 
-I am a creative developer & designer building [V3 Digital Studio](https://v3digital.studio).
+I am a founder, developer, & designer building [V3 Digital Studio](https://v3digital.studio).
 
 [→ old portfolio](https://valentinedev.com)
 
