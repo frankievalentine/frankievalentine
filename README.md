@@ -2,4 +2,4 @@
 
 Hey, I'm Frankie.
 
-I am a founder, developer, & designer building [V3 Digital Studio](https://v3digital.studio).
+I am a founder, developer, & designer building [V3 Digital Studio]().
