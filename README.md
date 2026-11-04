@@ -9,7 +9,7 @@ I'm the Founder of [V3 Digital Studio](https://v3digital.studio). More at [v3fra
 - [`backroom`](https://github.com/frankievalentine/backroom) <sub>Shopify catalog explorer</sub>
 - [`claude-decision-router`](https://github.com/frankievalentine/claude-decision-router) <sub>Claude Code plugin that picks Haiku, Sonnet, Opus or Fable per turn</sub>
 
-### V3 Digital Studio
+V3 Digital Studio:
 
 - [`quipthread`](https://github.com/quipthread/quipthread) <sub>minimal, self-hostable comment system</sub>
 - [`v3 website`](https://github.com/v3digitalstudio/website) <sub>studio site</sub>
