@@ -7,6 +7,7 @@ I'm the Founder of [V3 Digital Studio](https://v3digital.studio). More at [v3fra
 - [`minastro`](https://github.com/frankievalentine/minastro) <sub>Astro personal-site template on EmDash and Cloudflare</sub>
 - [`deku`](https://github.com/frankievalentine/deku) <sub>lightweight self-hosted PaaS built with Rust</sub>
 - [`backroom`](https://github.com/frankievalentine/backroom) <sub>Shopify catalog explorer</sub>
+- [`lopsi-bot-eve`](https://github.com/frankievalentine/lopsi-bot-eve) <sub>crew of AI agents built for the Vercel Eve platform</sub>
 - [`claude-decision-router`](https://github.com/frankievalentine/claude-decision-router) <sub>Claude Code plugin that picks Haiku, Sonnet, Opus or Fable per turn</sub>
 
 #### V3 Digital Studio
