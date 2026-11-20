@@ -2,6 +2,7 @@ Hey, I'm Frankie Valentine.
 
 I'm the Founder of [V3 Digital Studio](https://v3digital.studio). More at [v3frankie.me](https://v3frankie.me).
 
+- [`scrollback`](https://github.com/frankievalentine/Scrollback) <sub>Your coding-agent sessions in one place, each with a short summary</sub>
 - [`runyard`](https://github.com/frankievalentine/runyard) <sub>CI runners for GitHub and Forgejo, on your own machines</sub>
 - [`powermise`](https://github.com/frankievalentine/powermise) <sub>An unofficial desktop companion for mise.jdx.dev</sub>
 - [`minastro`](https://github.com/frankievalentine/minastro) <sub>Astro personal-site template on EmDash and Cloudflare</sub>
