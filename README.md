@@ -14,4 +14,4 @@ I'm the Founder of [V3 Digital Studio](https://v3digital.studio). More at [v3fra
 #### V3 Digital Studio
 
 - [`quipthread`](https://github.com/quipthread/quipthread) <sub>minimal, self-hostable comment system</sub>
-- [`v3 website`](https://github.com/v3digitalstudio/website) <sub>studio site</sub>
+<!-- - [`v3 website`](https://github.com/v3digitalstudio/website) <sub>studio site</sub> -->
